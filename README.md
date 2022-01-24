@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashidhar
 - 👀 I’m interested in Java 
-- 🌱 I’m currently learning Automation
+- 🌱 I’m currently learning on Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
